@@ -1,4 +1,0 @@
-run = "git add."
-
-[deployment]
-run = ["sh", "-c", "git add."]
